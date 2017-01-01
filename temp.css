@@ -1,5 +1,4 @@
-<style>
-      .wrapper {
+.wrapper {
   width: 100%; }
 
 #outlook a {
@@ -1371,12 +1370,3 @@ body.outlook p {
     table.button.small-expanded center {
       min-width: 0; } }
     
-    </style>  
-
-    <style>
-      body,
-      html,
-      .body {
-        background: #f3f3f3 !important;
-      }
-    </style>  
